@@ -1,0 +1,26 @@
+table {
+    border-color: black;
+    width: 80%;
+    background-image: url(../imgs/fondo\ verde\ claro.jpg);
+    background-repeat: no-repeat;
+    background-size: 1100px;
+    margin: 1cm;
+}
+tr {
+    border-style: double;
+    border-color: black;
+    
+}
+th {
+    border-style: double;
+    border-color: black;
+    
+}
+td {
+    border-style: double;
+    border-color: black;
+    
+}
+body{
+    background-color: black;
+}
